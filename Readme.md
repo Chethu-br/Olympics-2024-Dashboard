@@ -9,9 +9,9 @@ The primary goal of the project is to analyze and present Olympic data in a visu
 The primary objective is to provide a data-driven storytelling experience that not only highlights significant achievements and patterns but also makes complex data accessible to a wide range of audiences, including sports analysts, enthusiasts, and stakeholders. Through this project, we aim to enhance decision-making, foster a deeper appreciation for Olympic history, and create a tool that can be used for educational, analytical, and strategic purposes
 
 ## Tools and Techniques Used
-Power BI: For data visualization and dashboard creation.
-Power Query: For data cleaning and transformation.
-DAX (Data Analysis Expressions): For advanced calculations and measures.
+1. Power BI: For data visualization and dashboard creation.
+2. Power Query: For data cleaning and transformation.
+3. DAX (Data Analysis Expressions): For advanced calculations and measures.
 
 ## Data Sources
 Key Features:
@@ -25,10 +25,10 @@ The interactive nature of the dashboard allows for dynamic exploration of the da
 
 3. Key Metrics:
 The dashboard likely includes metrics such as:
-Total medals won by each country.
-Performance of athletes over time.
-Comparison of countries' performances across different Olympic games.
-Historical trends in medal counts and participation.
+- Total medals won by each country.
+- Performance of athletes over time.
+- Comparison of countries' performances across different Olympic games.
+- Historical trends in medal counts and participation.
 
 4. Data Sources:
 The project likely integrates data from various sources, such as historical Olympic records, athlete databases, and event results.
