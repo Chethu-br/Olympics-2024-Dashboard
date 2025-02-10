@@ -1,7 +1,7 @@
 
 # Olympics - 2024 Dashboard
 
-## Project Brief
+## Project 
 Objective:
 The primary goal of the project is to analyze and present Olympic data in a visually engaging and insightful manner. The dashboard serves as a tool for storytelling, allowing users to explore trends, patterns, and key metrics related to the Olympics.
 
