@@ -2,7 +2,7 @@
 # Olympics - 2024 Dashboard
 
 ## Project - https://bit.ly/4b0l96j
-Objective:
+## Objective:
 The primary goal of the project is to analyze and present Olympic data in a visually engaging and insightful manner. The dashboard serves as a tool for storytelling, allowing users to explore trends, patterns, and key metrics related to the Olympics.
 
 ## Problem Statement
@@ -13,8 +13,7 @@ The primary objective is to provide a data-driven storytelling experience that n
 2. Power Query: For data cleaning and transformation.
 3. DAX (Data Analysis Expressions): For advanced calculations and measures.
 
-## Data Sources
-Key Features:
+## Key Features:
 1. Data Visualization:
 The project uses Power BI's advanced visualization capabilities to create interactive charts, graphs, and maps.
 Visualizations likely include medal counts, athlete performance, country rankings, and historical trends.
